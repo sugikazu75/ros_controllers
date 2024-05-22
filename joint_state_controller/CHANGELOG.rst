@@ -2,8 +2,8 @@
 Changelog for package joint_state_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.22.0 (2024-05-22)
+-------------------
 * Fix uncaught exception in joint_state_controller (`#630 <https://github.com/ros-controls/ros_controllers/issues/630>`_)
 * add flag controlling init of last_publish_time_ (`#617 <https://github.com/ros-controls/ros_controllers/pull/617`_)
 * Contributors: Bryan Stuurman, Robert Haschke, Dr Denis
